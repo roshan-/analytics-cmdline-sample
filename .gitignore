@@ -1,0 +1,6 @@
+*.emf
+*.7z
+*.svg
+bin
+target
+
